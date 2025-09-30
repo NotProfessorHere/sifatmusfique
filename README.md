@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifatmusfique&label=Profile%20views&color=0e75b6&style=flat" alt="sifatmusfique" /> </p>
 
-- 👨‍💻 All of my projects are available at [sifatmusfique.site](sifatmusfique.site)
-
 - 📫 How to reach me **professor.fragment@gmail.com**
 
 - ⚡ Fun fact **I am 100% Accurate about layout positioning**

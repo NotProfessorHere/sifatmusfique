@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [sifatmusfique.site](sifatmusfique.site)
 
-- 📫 How to reach me **sifatmusfique@gmail.com**
+- 📫 How to reach me **professor.fragment@gmail.com**
 
 - ⚡ Fun fact **I am 100% Accurate about layout positioning**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifatmusfique&show_icons=true&locale=en&layout=compact" alt="sifatmusfique" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifatmusfique&show_icons=true&locale=en" alt="sifatmusfique" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotProfessorHere&show_icons=true&locale=en" alt="Professor Paradox" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifatmusfique&" alt="sifatmusfique" /></p>

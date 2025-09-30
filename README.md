@@ -1,5 +1,4 @@
-![logo](https://github.com/sifatmusfique/sifatmusfique/blob/main/1000116534.jpg)
-<h1 align="center">Hi 👋, I'm Sifat Musfique</h1>
+<h1 align="center">Hi 👋, I'm Professor Paradox</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA0bml2aTB6YmNhMzE5anlrMzB6NTN3dWdqOTdqdDZ4eG1qZHRlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
